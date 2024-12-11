@@ -1,0 +1,6 @@
+appName: my-nginx-app
+replicaCount: 2
+
+image:
+  repository: nginx
+  tag: latest
